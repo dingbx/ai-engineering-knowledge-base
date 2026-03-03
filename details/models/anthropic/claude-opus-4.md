@@ -27,8 +27,7 @@ Training without human feedback labels for harms:
 
 ### Safety Features
 - Constitutional Classifiers defend against universal jailbreaks
-- Red lines on mass surveillance and autonomous weapons
-- 98-99% of military use cases acceptable per Anthropic
+- Clear guidelines for sensitive deployment contexts
 
 ---
 
@@ -39,16 +38,6 @@ Training without human feedback labels for harms:
 | Valuation | $380B (Feb 2026) |
 | Employees | 2,500 |
 | CEO Time on Culture | 40% |
-
----
-
-## Pentagon Conflict (Feb 2026)
-
-Anthropic drew "red lines" preventing:
-- Mass surveillance on Americans
-- Autonomous weapons systems
-
-Defense Secretary called company a "supply-chain risk." CEO Dario Amodei: "We believe that crossing those lines is contrary to American values."
 
 ---
 

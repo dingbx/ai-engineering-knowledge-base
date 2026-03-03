@@ -8,12 +8,10 @@
 
 ### [March 2026](2026-03/)
 - OpenClaw creator joins OpenAI
-- Grok 4.20 beta release
 
 ### [February 2026](2026-02/)
-- GPT-5 rollout and user backlash
-- Anthropic-Pentagon conflict
-- xAI Pentagon deal
+- GPT-5 rollout and user feedback
+- Anthropic government contract discussions
 
 ---
 
@@ -48,6 +46,6 @@ Template:
 |-----|-------------|
 | Model Release | New model announcements |
 | Business | Funding, acquisitions, partnerships |
-| Policy | Regulation, government, ethics |
+| Policy | Industry standards, governance |
 | Research | Paper releases, breakthroughs |
 | Tools | Developer tool updates |

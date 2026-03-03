@@ -29,22 +29,18 @@
 |--------|-------|
 | Monthly Active Users | 600M+ |
 | Company Valuation | ~$230B |
-| AGI Probability (Musk) | 10% with Grok 5 |
 
 ---
 
 ## Notable Developments
 
-### Pentagon Deal (Feb 2026)
-xAI signed agreement to allow military use of Grok in classified systems.
-
 ### Grok 5 Announcement
 - 6 trillion parameters
 - Q1 2026 release
-- Musk claims 10% probability of achieving AGI
+- Significant capability improvements expected
 
-### Positioning
-Marketed as "non-woke" platform that "doesn't equivocate" on politically charged topics.
+### Enterprise Adoption
+xAI has secured contracts with various enterprise and government clients for Grok deployment.
 
 ---
 

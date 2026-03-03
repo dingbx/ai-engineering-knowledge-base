@@ -37,4 +37,4 @@ On GPT-5 rollout: "I think we definitely screwed some things up"
 On AGI: "AGI will arrive in 2026!" with 10% probability from Grok 5
 
 ### Dario Amodei (Feb 2026)
-On Pentagon conflict: "We believe that crossing those lines is contrary to American values"
+On leadership: "I probably spend 40% of my time making sure the culture of Anthropic is good"
