@@ -1,6 +1,6 @@
-# AI/LLM Industry Report for Beginners (2025-2026)
+# AI/LLM Industry Report (2025-2026)
 
-> A comprehensive guide from high-level market overview to technical details
+> Market overview, major players, key research, and technical fundamentals
 
 **Last Updated:** March 2026
 
@@ -11,7 +11,7 @@
 1. [The Big Picture - Market Overview](#part-1-the-big-picture---market-overview)
 2. [Major Players & Their Models](#part-2-major-players--their-models)
 3. [Essential Papers to Read](#part-3-essential-papers-to-read-ranked-by-importance)
-4. [Key Technical Concepts](#part-4-key-technical-concepts-beginner-friendly)
+4. [Key Technical Concepts](#part-4-key-technical-concepts)
 5. [2026 Trends to Watch](#part-5-2026-trends-to-watch)
 6. [Recommended Learning Path](#part-6-recommended-learning-path)
 7. [Quick Reference: Model Comparison](#quick-reference-model-comparison-march-2026)
@@ -218,7 +218,7 @@ Understanding how models "think step by step".
 
 ---
 
-## Part 4: Key Technical Concepts (Beginner-Friendly)
+## Part 4: Key Technical Concepts
 
 ### The Architecture Stack
 
