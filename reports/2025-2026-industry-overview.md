@@ -38,24 +38,24 @@
 
 ## Major Players Summary
 
-For detailed model information, see [Models Index](../models/_index.md).
+For detailed model information, see [Models Index](../details/models/_index.md).
 
 ### Tier 1: Closed Source Giants
 
 | Company | Flagship Model | Key Innovation |
 |---------|---------------|----------------|
-| [OpenAI](../models/openai/) | GPT-5, o3/o4-mini | Unified reasoning, open-weight release |
-| [Google](../models/google/) | Gemini 3.1 Pro | 1M context, Deep Think mode |
-| [Anthropic](../models/anthropic/) | Claude Opus 4.5 | Constitutional AI, safety focus |
-| [xAI](../models/xai/) | Grok 4 Heavy | Multi-agent architecture, 1.7T params |
+| [OpenAI](../details/models/openai/) | GPT-5, o3/o4-mini | Unified reasoning, open-weight release |
+| [Google](../details/models/google/) | Gemini 3.1 Pro | 1M context, Deep Think mode |
+| [Anthropic](../details/models/anthropic/) | Claude Opus 4.5 | Constitutional AI, safety focus |
+| [xAI](../details/models/xai/) | Grok 4 Heavy | Multi-agent architecture, 1.7T params |
 
 ### Tier 2: Open Source Leaders
 
 | Company | Model | Notable Achievement |
 |---------|-------|---------------------|
-| [Meta](../models/meta/) | Llama 4 Maverick | 10M token context (longest open-weight) |
-| [DeepSeek](../models/open-source/deepseek-v3.md) | DeepSeek-V3/R1 | Frontier training for ~$6M |
-| [Alibaba](../models/open-source/qwen3.md) | Qwen3-235B | Outperforms DeepSeek-V3 on 14/15 benchmarks |
+| [Meta](../details/models/meta/) | Llama 4 Maverick | 10M token context (longest open-weight) |
+| [DeepSeek](../details/models/open-source/deepseek-v3.md) | DeepSeek-V3/R1 | Frontier training for ~$6M |
+| [Alibaba](../details/models/open-source/qwen3.md) | Qwen3-235B | Outperforms DeepSeek-V3 on 14/15 benchmarks |
 
 ---
 
@@ -71,10 +71,10 @@ For detailed model information, see [Models Index](../models/_index.md).
 
 ## Related Sections
 
-- [Models](../models/) - Detailed model specifications
-- [Market Data](../market/) - Full market statistics
-- [Research](../research/) - Technical papers and concepts
-- [News](../news/) - Latest updates
+- [Models](../details/models/) - Detailed model specifications
+- [Market Data](../details/market/) - Full market statistics
+- [Research](../details/research/) - Technical papers and concepts
+- [News](../details/news/) - Latest updates
 
 ---
 

@@ -6,69 +6,74 @@
 
 ---
 
-## Quick Navigation
+## Reports
 
-| Section | Description |
-|---------|-------------|
-| [Reports](reports/) | Comprehensive periodic industry reports |
-| [Models](models/) | Deep dives on specific AI models by company |
-| [Research](research/) | Academic papers and technical concepts |
-| [Tools](tools/) | Developer tools, frameworks, and agents |
-| [News](news/) | Time-sensitive industry updates |
-| [Interviews](interviews/) | Key quotes and insights from industry leaders |
-| [Market](market/) | Market data, trends, and adoption statistics |
-| [Learning](learning/) | Learning paths and educational resources |
+Comprehensive periodic industry reports:
+
+- [2025-2026 Industry Overview](reports/2025-2026-industry-overview.md) - Market overview, major players, trends
 
 ---
 
-## Reports
+## Details
 
-- [2025-2026 Industry Overview](reports/2025-2026-industry-overview.md) - Comprehensive state of AI/LLM industry
+In-depth information organized by category:
 
-## Models
+| Section | Description |
+|---------|-------------|
+| [Models](details/models/) | Deep dives on specific AI models by company |
+| [Research](details/research/) | Academic papers and technical concepts |
+| [Tools](details/tools/) | Developer tools, frameworks, and agents |
+| [News](details/news/) | Time-sensitive industry updates |
+| [Interviews](details/interviews/) | Key quotes and insights from industry leaders |
+| [Market](details/market/) | Market data, trends, and adoption statistics |
+| [Learning](details/learning/) | Learning paths and educational resources |
 
-### Closed Source
-- [OpenAI](models/openai/) - GPT-5, o3/o4-mini
-- [Anthropic](models/anthropic/) - Claude Opus 4.5
-- [Google](models/google/) - Gemini 3, Deep Think
-- [xAI](models/xai/) - Grok 4, Grok 5
+---
 
-### Open Source
-- [Meta](models/meta/) - Llama 4
-- [DeepSeek](models/open-source/deepseek-v3.md) - DeepSeek-V3, R1
-- [Qwen](models/open-source/qwen3.md) - Qwen3-235B
+### Models
 
-## Research
+#### Closed Source
+- [OpenAI](details/models/openai/) - GPT-5, o3/o4-mini
+- [Anthropic](details/models/anthropic/) - Claude Opus 4.5
+- [Google](details/models/google/) - Gemini 3, Deep Think
+- [xAI](details/models/xai/) - Grok 4, Grok 5
 
-- [Papers](research/papers/) - Summaries of essential papers
-- [Concepts](research/concepts/) - Technical concept explainers
+#### Open Source
+- [Meta](details/models/meta/) - Llama 4
+- [DeepSeek](details/models/open-source/deepseek-v3.md) - DeepSeek-V3, R1
+- [Qwen](details/models/open-source/qwen3.md) - Qwen3-235B
 
-## Tools
+### Research
 
-- [Frameworks](tools/frameworks/) - LangChain, LlamaIndex
-- [Coding Assistants](tools/coding-assistants/) - Cursor, Copilot, Claude Code
-- [Agents](tools/agents/) - OpenClaw and autonomous agents
+- [Papers](details/research/papers/) - Summaries of essential papers
+- [Concepts](details/research/concepts/) - Technical concept explainers
 
-## News
+### Tools
 
-- [March 2026](news/2026-03/) - Latest updates
-- [February 2026](news/2026-02/) - GPT-5 rollout, Anthropic-Pentagon conflict
+- [Frameworks](details/tools/frameworks/) - LangChain, LlamaIndex
+- [Coding Assistants](details/tools/coding-assistants/) - Cursor, Copilot, Claude Code
+- [Agents](details/tools/agents/) - OpenClaw and autonomous agents
 
-## Interviews
+### News
 
-- [Sam Altman](interviews/sam-altman.md) - OpenAI CEO
-- [Elon Musk](interviews/elon-musk.md) - xAI founder
-- [Dario Amodei](interviews/dario-amodei.md) - Anthropic CEO
+- [March 2026](details/news/2026-03/) - Latest updates
+- [February 2026](details/news/2026-02/) - GPT-5 rollout, Anthropic-Pentagon conflict
 
-## Market
+### Interviews
 
-- [Market Size](market/market-size.md) - Industry valuations and projections
-- [Adoption Stats](market/adoption-stats.md) - Enterprise and consumer adoption
+- [Sam Altman](details/interviews/sam-altman.md) - OpenAI CEO
+- [Elon Musk](details/interviews/elon-musk.md) - xAI founder
+- [Dario Amodei](details/interviews/dario-amodei.md) - Anthropic CEO
 
-## Learning
+### Market
 
-- [Learning Path](learning/learning-path.md) - Structured guide to understanding LLMs
-- [Resources](learning/resources.md) - Curated links and materials
+- [Market Size](details/market/market-size.md) - Industry valuations and projections
+- [Adoption Stats](details/market/adoption-stats.md) - Enterprise and consumer adoption
+
+### Learning
+
+- [Learning Path](details/learning/learning-path.md) - Structured guide to understanding LLMs
+- [Resources](details/learning/resources.md) - Curated links and materials
 
 ---
 
@@ -76,11 +81,14 @@
 
 To add new content:
 
-1. **New model** → Add to `models/{company}/model-name.md`
-2. **Breaking news** → Create `news/YYYY-MM/headline.md`
-3. **Interview quote** → Append to `interviews/{person}.md` with date
-4. **Paper summary** → Add to `research/papers/paper-name.md`
-5. **New tool** → Add to appropriate `tools/` subfolder
+| Content Type | Location |
+|--------------|----------|
+| New report | `reports/` |
+| New model | `details/models/{company}/` |
+| Breaking news | `details/news/YYYY-MM/` |
+| Interview quote | Append to `details/interviews/{person}.md` |
+| Paper summary | `details/research/papers/` |
+| New tool | `details/tools/{category}/` |
 
 ---
 
